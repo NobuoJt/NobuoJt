@@ -19,7 +19,6 @@
 
 - 鉄道関連のオープンデータをわかりやすく可視化＆通知
 - オープンソースやコミュニティ文化のサポート
-- 英語力はまだまだですが、OSSにもいつか貢献したいと思っています
 - 自動車のGPSデータから交通容量を推測する研究をしています
 
 ---
@@ -86,7 +85,6 @@ I like the style of "making something that works first, and then applying patche
 
 - Visualizing and notifying railway-related open data in an easy-to-understand manner
 - Supporting open source and community culture
-- My English skills are still limited, but I hope to contribute to OSS someday.
 - Research into estimating traffic capacity from vehicle GPS data
 
 ---
